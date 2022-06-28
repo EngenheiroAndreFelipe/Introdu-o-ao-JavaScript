@@ -56,5 +56,13 @@ Alguns tipos de função JavaScript:
 innerHTML - inserir texto ao realizar determinada função
 
 tag b serve pra colocar em negrito (bold)
+window.open serve para abrir um link em outrojanela
+window.location.href serve para abrir um link na mesma janela
+
+ <p id="agradecimento" onclick="redirecionar()"></p>
+            <p id="mouseover" onmouseover="trocar()" onmouseout="voltar()">Passe o mouse aqui</p>
 
 
+on load - quando carregar o body
+
+on change ao trocar opções ele consegue obter o valor recebido
