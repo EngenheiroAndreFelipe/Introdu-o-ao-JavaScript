@@ -1,6 +1,21 @@
 function clicou(){
     document.getElementById("agradecimento").innerHTML = "Obrigado por Clicar";
 }
+
+
+function redirecionar(){
+    window.open("https://desktop.github.com/");
+}
+
+function trocar(elemento){
+    //document.getElementById("mouseover").innerHTML = "Obrigado por passar o mouse";
+    elemento.innerHTML = "Obrigado por passar o mouse"
+}
+
+function voltar(elemento){
+    //document.getElementById("mouseover").innerHTML = "Passe o mouse aqui";    
+    elemento.innerHTML = "Passe o mouse aqui"
+}
 /* function clicou(){
     alert("Obrigado por clicar")
 }
