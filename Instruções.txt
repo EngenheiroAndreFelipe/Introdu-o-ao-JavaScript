@@ -1,0 +1,60 @@
+Replace substitui uma string por outra.
+Pode ser usado no console log ou no alert
+
+console.log(0; chama a função ou variável.
+
+frase.touppercase() - deixa todas as letras em maiuscula.
+frase.tolowercase() - deixa todas as letras em minuscula.
+
+
+console.log(lista[2]);
+
+imprime o item da posição 2 na lista.
+
+push coloca um itemm numa lista
+
+lista.push("uva";
+
+lista.pop();
+
+retira o último elemento da lista.
+
+lista.reverse(); reverte a ordem da lista.
+
+lista.toString converte em string
+
+lista.join (" ")converte em String colocando algo entre as palavras.
+
+prompt serve para fazer uma pergunta ao usuário
+
+Estrutura de repetição em JS.
+
+var count = 0;
+while (count <= 5){
+	console.log(count);
+	count++;
+};
+
+var count;
+for{(count=0; count <= 5;count++)
+	alert(count);
+}; for do javascript
+
+
+Mostrar data no JavaScript
+
+var d = new Date();
+alert(d);
+
+ou alert(d.getDay());
+
+function soma(a, b){
+	return a + b;
+
+Alguns tipos de função JavaScript:
+
+innerHTML - inserir texto ao realizar determinada função
+
+tag b serve pra colocar em negrito (bold)
+
+
